@@ -9,7 +9,11 @@ const StyledImageBackground = styled(ImageBackground);
 export default function App() {
   return (
     <StyledImageBackground
+<<<<<<< HEAD
       source={require('../assets/image/green.jpg')} // Make sure this path is correct
+=======
+      source={require('../assets/image/green.png')} // Make sure this path is correct
+>>>>>>> 488ecd1 (First Commit)
       style={styles.background} // Apply styling to ensure the background covers the entire screen
       resizeMode="cover"
     >

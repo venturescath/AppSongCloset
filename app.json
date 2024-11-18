@@ -1,9 +1,15 @@
 {
   "expo": {
+<<<<<<< HEAD
   
     "name": "AppSongCloset",
     "slug": "AppSongCloset",
     "scheme": "AppSongCloset",
+=======
+    "name": "AppSongCloset",
+    "slug": "AppSongCloset",
+    "scheme":"AppSongCloset",
+>>>>>>> 488ecd1 (First Commit)
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
